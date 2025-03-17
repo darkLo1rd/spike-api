@@ -1,0 +1,21 @@
+{
+  "name": "spike-api",
+  "version": "1.0.8-a-esm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "downloaders",
+    "religion",
+    "searching",
+    "tools"
+  ],
+  "author": "Malik",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0"
+  }
+}
